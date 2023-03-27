@@ -10,6 +10,16 @@ export const publicRoutes = [
       element: LoginPage,
     },
     {
+      title: "Login",
+      path: "/",
+      element: LoginPage,
+    },
+    {
+      title: "Login",
+      path: "",
+      element: LoginPage,
+    },
+    {
         title: "Sign Up",
         path: "signup",
         element: SignUpPage,
